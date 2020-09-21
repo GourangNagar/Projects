@@ -20,7 +20,7 @@ while True:
 # Webcam
 import cv2
 
-vid = cv2.VideoCapture(0)
+vid = cv2.VideoCapture(0)    # 0 for webcam in lappy and 1 for external hardware
 vid.set(3,640)   # Width of screen
 vid.set(4,480)   # Hight of screen
 vid.set(10,100)  # Brightness of Webcam

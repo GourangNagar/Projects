@@ -4,17 +4,17 @@ BTECH CSE (DS & AI)
 
 THIS IS A GUI BASED MEDICAL IMAGE DENOISING PROGRAM BUILT IN PYTHON.
 
-#Prerequisite :
+Prerequisite :
 
 1. Python must be installed along with latest pip version (Type : "python -m pip install -upgrade pip" in Command prompt to install) in the required System.
 2.Following Libraries must be installed successfully :
 
-1.) matplotlib   (Type : "pip install matplotlib" in Command prompt to install).
-2.) scikit-image (Type : "pip install scikit-image" in Command prompt to install).
-3.) medpy        (Type : "pip install MedPy" in Command prompt to install).
-4.) flask        (Type : "pip install Flask" in Command prompt to install).
+1.) matplotlib   (Type : "pip install matplotlib" in Command prompt to install).    
+2.) scikit-image (Type : "pip install scikit-image" in Command prompt to install).    
+3.) medpy        (Type : "pip install MedPy" in Command prompt to install).    
+4.) flask        (Type : "pip install Flask" in Command prompt to install).    
 
-#Procedure :
+Procedure :
 
 1. Unzip the folder.
 2. Right click on app.py and open with Python.

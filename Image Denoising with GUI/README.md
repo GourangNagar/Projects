@@ -6,7 +6,7 @@ THIS IS A GUI BASED MEDICAL IMAGE DENOISING PROGRAM BUILT IN PYTHON.
 
 Prerequisite :
 
-1. Python must be installed along with latest pip version (Type : "python -m pip install -upgrade pip" in Command prompt to install) in the required System.
+1. Python must be installed along with latest pip version (Type : "python -m pip install -upgrade pip" in Command prompt to install) in the required System.     
 2.Following Libraries must be installed successfully :
 
 1.) matplotlib   (Type : "pip install matplotlib" in Command prompt to install).    
